@@ -12,12 +12,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cumsud-ismayilov&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-<div align=center>
-  <img width="400" src="https://readme-stats.clckblog.space/api?username=cumsud-ismayilov&theme=merko&show_icons=true&hide_border=true&count_private=true" />
-  <img width="400"  src="https://github-readme-streak-stats.herokuapp.com?user=cumsud-ismayilov&theme=merko&hide_border=true" />
-  <img align="left"><img width="50%" src="https://readme-stats.clckblog.space/api/top-langs?username=cumsud-ismayilov&show_icons=true&theme=merko&layout=compact" alt="developer-metalhead" />  
-
-</div>
+<p align="left"> <a href="https://github.com/cumsud-ismayilov/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cumsud-ismayilov&margin-w=15" alt="bbarisbolat" /></a> </p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
